@@ -34,7 +34,7 @@ This project was designed to demonstrate:
 ## Built With
 
 * React
-* Tailwind
+* TailwindCSS
 * HTML5
 
 

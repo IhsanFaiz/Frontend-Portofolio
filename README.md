@@ -1,4 +1,4 @@
-[![header][header-url]][header-link]
+![header][header-link]
 # My Portofolio Website
 [![Frontend][Frontend-image]][Frontend-url]
 [![Styling][Styling-image]][Frontend-url]

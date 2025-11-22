@@ -1,3 +1,4 @@
+[![header][header-url]][header-link]
 # My Portofolio Website
 [![Frontend][Frontend-image]][Frontend-url]
 [![Styling][Styling-image]][Frontend-url]
@@ -52,8 +53,8 @@ Live website: [My-Portofolio][My-Portofolio]
 ---
 
 
-[home-asset]: (assets/image.png)
-[header-link]: https://github.com/alexandrerosseto
+[home-asset]: assets/image.png
+[header-link]: assets/Banner.png
 
 [repository-url]: https://github.com/alexandrerosseto/wbshopping
 
